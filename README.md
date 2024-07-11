@@ -18,7 +18,7 @@ A Windows Forms application to optimize PC performance for gaming by disabling u
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/PC-Optimization-for-Gaming.git
+    git clone https://github.com/Kakao-Team/K-Optimization/edit/main/README.md
     ```
 ## Usage
 
