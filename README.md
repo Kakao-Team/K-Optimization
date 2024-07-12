@@ -16,7 +16,7 @@ A Windows Forms application to optimize PC performance for gaming by disabling u
 
 ## Installation
 
-1. Download the latest release or pre-release.
+ Download the latest release or pre-release.
 
 ## Usage
 
