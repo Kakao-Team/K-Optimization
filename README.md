@@ -16,10 +16,8 @@ A Windows Forms application to optimize PC performance for gaming by disabling u
 
 ## Installation
 
-1. Clone the repository:
-    ```sh
-    git clone https://github.com/Kakao-Team/K-Optimization/edit/main/README.md
-    ```
+1. Download the latest release or pre-release.
+
 ## Usage
 
 1. Run the application.
